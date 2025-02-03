@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background: black;
+}
+a {
+    color: red;
+    margin-left: 120px;
+}
+h1 {
+    color: red;
+}
+.voltar {
+    width: 40px;
+    height: auto;
+    margin-left: 60px;
+}
